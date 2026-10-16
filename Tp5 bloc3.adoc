@@ -1,0 +1,36 @@
+= Question 1
+
+
+
+== Introduction
+
+Ce questionnaire a pour objectif de recueillir l'avis des utilisateurs afin d'améliorer la qualité du service.
+
+== Questionnaire
+
+=== Question 1 : Satisfaction générale
+
+Êtes-vous satisfait du service proposé ?
+
+* [ ] Très satisfait
+* [ ] Satisfait
+* [ ] Peu satisfait
+* [ ] Pas satisfait
+
+=== Question 2 : Facilité d'utilisation
+
+Le service est-il facile à utiliser ?
+
+* [ ] Oui
+* [ ] Non
+* [ ] Partiellement
+
+=== Question 3 : Suggestions
+
+Quelles améliorations proposeriez-vous ?
+
+....................................................
+
+== Conclusion
+
+Merci d'avoir pris le temps de répondre à ce questionnaire.
